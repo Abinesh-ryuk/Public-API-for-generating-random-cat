@@ -13,6 +13,10 @@ React hooks (useState, useEffect) to manage state and lifecycle.
 
 Fully customizable — you can swap out APIs for dogs, space images, or anything else.
 
+# Project structure
+
+<img width="1024" height="1536" alt="ChatGPT Image Sep 8, 2025, 11_26_40 AM" src="https://github.com/user-attachments/assets/508f1125-3e21-4b37-a67f-e380fd3951d6" />
+
 # Installation & Setup
 
 Run these commands in your terminal (PowerShell):
